@@ -114,7 +114,6 @@ int main() {
             }
         }
 
-        // Atraso de 50ms para evitar múltiplas leituras consecutivas sem querer
         sleep_ms(50);
     }
 
