@@ -59,7 +59,7 @@ void desligar_tudo() {
     desligar_led(LED_VERDE, "LED verde");
     desligar_led(LED_AZUL, "LED azul");
     desligar_led(LED_VERMELHO, "LED vermelho");
-    gpio_put(BUZZER, 0); // Desliga o buzzer
+    gpio_put(BUZZER, 0);
     printf("Todos os componentes desligados\n");
 
     estado_led_verde = false;
