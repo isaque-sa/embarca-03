@@ -67,20 +67,4 @@ Este projeto é uma aplicação simples para controlar LEDs RGB e um buzzer util
 
 ---
 
-## Como Compilar e Executar o Código
-
-1. **Configurar o SDK do Pico**:
-   - Siga o guia oficial de configuração do SDK do Pico.
-
-2. **Clonar este repositório**:
-   ```bash
-   git clone <url-do-repositorio>
-   cd <nome-do-repositorio>
-
-
-## Demonstração do Projeto
-
-### Assista ao vídeo abaixo:
-
-[![Assista ao vídeo](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/DlRfBLfy1AY)
 
