@@ -82,7 +82,5 @@ Este projeto é uma aplicação simples para controlar LEDs RGB e um buzzer util
 
 ### Assista ao vídeo abaixo:
 
-<iframe src="https://vimeo.com/1044007903" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[![Assista ao vídeo](https://vimeo.com/1044007903)](https://vimeo.com/1044007903)
 
-### Ou clique no link:
-[Veja no Vimeo](https://vimeo.com/1044007903)
