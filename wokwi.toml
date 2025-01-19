@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Tarefa2Neto.hex'
+elf = 'build/Tarefa2Neto.elf'
