@@ -12,3 +12,5 @@ As teclas C e c ligam o LED azul, conectado ao GPIO 12.
 As teclas D e d ligam os três LEDs, vermelho verde e azul.
 A tecla # liga os buzzers, conectados aos GPIO 10 e 21.
 A tecla * desliga todos os componentes.
+
+Video: https://youtu.be/AwMFRUysw1E?si=70OthGx5-EfDD9Hj
